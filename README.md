@@ -9,7 +9,7 @@
 
 - 👌 recent project [Twitch Auto Lurk Bot](https://github.com/josephistired/Twitch-Auto-Lurk-Bot)
 
-- 👨‍💻 all of my projects are available at coming soon (: or is it already up 😒
+- 👨‍💻 all of my projects are available at coming soon (: 😒
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
