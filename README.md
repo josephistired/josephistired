@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephistired&label=Profile%20views&color=0e75b6&style=flat" alt="josephistired" /> </p>
 
-- 🔭 i’m currently working on **Discord.js V14 Bot! Making Public Soon!**
+- 🔭 i’m currently working on **Discord.js V14 Bot! - Making Public Soon!**
 
-- 🌱 i’m currently learning **C++, Python, JavaScript**
+- 🌱 i’m currently learning **Python, JavaScript**
 
 - 👌 recent project [Twitch Auto Lurk Bot](https://github.com/josephistired/Twitch-Auto-Lurk-Bot)
 
