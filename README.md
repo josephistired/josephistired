@@ -7,7 +7,7 @@
 
 - 🌱 i’m currently learning **Python, JavaScript**
 
-- 👌 recent project [Twitch Auto Lurk Bot](https://github.com/josephistired/Twitch-Auto-Lurk-Bot)
+- 👌 recent project [Pi-Hole Block List](https://github.com/josephistired/pihole-block-list)
 
 - 👨‍💻 all of my projects are available at coming soon (: 😒
 
