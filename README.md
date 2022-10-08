@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephistired&label=Profile%20views&color=0e75b6&style=flat" alt="josephistired" /> </p>
 
-- 🔭 i’m currently working on **Discord.js V14 Bot! - 2023**
+- 🔭 i’m currently working on [Discord.js v14 Bot](https://github.com/josephistired/DiscordBot-v14)
 
 - 🌱 i’m currently learning **Python, JavaScript**
 
-- 👌 recent project [Pi-Hole Block List](https://github.com/josephistired/pihole-block-list)
+- 👌 recent project [Discord.js v14 Bot](https://github.com/josephistired/DiscordBot-v14)
 
 - 👨‍💻 all of my projects are available at coming soon (: 😒
 
