@@ -1,7 +1,8 @@
 ![Hello](header.png)
 
-![Views](https://komarev.com/ghpvc/?username=josephistired&label=VIEWS&color=000000)
+![Views](https://komarev.com/ghpvc/?username=josephistired&label=VIEWS&color=000000
 
+- 🧑‍💻 All my projects can be found [here](www.josephcarmosino.website)
 - 🔭 I’m currently working & looking to collaborate on [DiscordBot v14](https://github.com/josephistired/DiscordBot-v14)
 
 - 🌱 I’m currently learning **C++**
