@@ -5,7 +5,7 @@
 ![Views](https://komarev.com/ghpvc/?username=josephistired&label=VIEWS&color=000000)
 
 
-🧑‍💻 All my projects can be found [here](www.josephcarmosino.website)
+🧑‍💻 All my projects can be found [here](http://www.josephcarmosino.website)
 
 🔭 I’m currently working & looking to collaborate on [DiscordBot v14](https://github.com/josephistired/DiscordBot-v14)
 
