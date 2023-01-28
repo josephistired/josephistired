@@ -1,23 +1,16 @@
 <div align="center">
 
-![Hello](header.png)
-
-![Views](https://komarev.com/ghpvc/?username=josephistired&label=VIEWS&color=000000)
 
 
 🧑‍💻 All my projects can be found [here](http://www.josephcarmosino.website)
 
 🔭 I’m currently working & looking to collaborate on [DiscordBot v14](https://github.com/josephistired/DiscordBot-v14)
 
-🌱 I’m currently learning **C++**
-
-🤝 I’m looking for help with [Twitch Auto Lurk Bot](https://github.com/josephistired/Twitch-Auto-Lurk-Bot)
-
 # Stats
 
 I have recently gotten myself into the art of coding. I enjoy learning more about it each day!
 
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephistired&theme=dark&show_icons=true)
+![Joseph's GitHub stats](https://streak-stats.demolab.com?user=josephistired&theme=dark&hide_border=true&fire=DD2727)
 
 # What I Use & Tools
 
