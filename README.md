@@ -3,7 +3,7 @@
 
 Hi there! 🤚🏻
 
-**I am Joseph. Currently a high school senior, I love to code, and learn new things everyday! Feel free to visit my [website](www.josephcarmosino.website), if you want to learn more about me.**
+**I am Joseph. Currently a high school senior, I love to code, and learn new things everyday! Feel free to visit my [website](https://www.josephcarmosino.website), if you want to learn more about me.**
 
 
 # Current 📌 Repositories
