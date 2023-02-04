@@ -1,5 +1,6 @@
-![Header](./assets/github-header-image.png)
+[![Discord Presence](https://lanyard.cnrad.dev/api/712200825027690558)](https://discord.com/users/712200825027690558)
 
+![Header](./assets/github-header-image.png)
 
 Hi there! 🤚🏻
 
