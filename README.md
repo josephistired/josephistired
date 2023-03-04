@@ -1,5 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/712200825027690558)](https://discord.com/users/712200825027690558)
-[![Spotify](https://spotify-lovat-eight.vercel.app/api/spotify)](https://open.spotify.com/user/irexps)
+[![Discord Presence](https://lanyard.cnrad.dev/api/712200825027690558)](https://discord.com/users/712200825027690558)[![Spotify](https://spotify-lovat-eight.vercel.app/api/spotify)](https://open.spotify.com/user/irexps)
 
 ![Header](./assets/github-header-image.png)
 
