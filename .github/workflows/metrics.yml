@@ -9,7 +9,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: josephistired/metrics@latest
+      - uses: josephistired/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
