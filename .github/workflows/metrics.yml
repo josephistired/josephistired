@@ -59,6 +59,7 @@ jobs:
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_pwa: yes
           plugin_pagespeed_url: https://josephcarmosino.website/
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_repositories: yes
           plugin_repositories_featured: DiscordBot-v14, Discord-Pi-hole-Bot, Discord-SelfBot, Auto-Lurk
           plugin_repositories_order: featured, pinned, starred, random
