@@ -64,3 +64,6 @@ jobs:
           plugin_repositories_featured: DiscordBot-v14, Discord-Pi-hole-Bot, Discord-SelfBot, Auto-Lurk
           plugin_repositories_order: featured, pinned, starred, random
           plugin_traffic: yes
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
