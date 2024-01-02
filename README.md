@@ -5,7 +5,7 @@
 
 Greetings! 🙋‍♂️
 
-My name is Joseph! One of my passions is coding and I enjoy learning new things every day! If you're interested in finding out more about me, feel free to check out my [website](https://www.josephcarmosino.website/).
+My name is Joseph! One of my passions is coding and I enjoy learning new things every day! If you're interested in finding out more about me, feel free to check out my [website](https://www.josephcarmosino.com/).
 
 If you have any questions or would like to chat about anything related to coding, I'm more than happy to discuss it with you. Let's connect and learn from each other!
 
