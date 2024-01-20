@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2315" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2748" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.average{color:#fb8c00}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.audits{margin-top:8px}.audit.text{min-width:42px}.audit svg{margin:0}.audit.high{fill:#18b663}.audit.average{fill:#fb8c00}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.average{color:#fb8c00}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.audits{margin-top:8px}.audit.text{min-width:42px}.audit svg{margin:0}.audit.high{fill:#18b663}.audit.average{fill:#fb8c00}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    540k added, 896 removed
+                                    25k added, 1.68k removed
                                 </div>
                             </section>
                             <section>
@@ -611,13 +611,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.46 s</div>
+                        <div class="audit text">0.52 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.57 s</div>
+                        <div class="audit text">1.24 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -653,13 +653,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.46 s</div>
+                        <div class="audit text">0.52 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.57 s</div>
+                        <div class="audit text">1.24 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -678,7 +678,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 38 commits)</small>
+                    <small class="h-details">(computed from last 40 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1731,6 +1731,500 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">josephistired/novatorem</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#57f7d3c</div>
+                                        <div class="message">Update vercel.json</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 17 commits in
+                                        <span class="repo">josephistired/novatorem</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0e6053c</div>
+                                        <div class="message">More explicit setup instructions access</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36b4172</div>
+                                        <div class="message">Sync changes from master branch (#67)
+
+* Fixes index out of bounds bug and adds global placeholder variable
+
+* Adds placeholder image
+
+* Update spotify.html.j2
+
+* Easy way to add more thems, added a dark theme
+
+* Easy theme selection
+
+* Themes and Templates setup guide
+
+* Themes and Templates (#1)
+
+* Update templates.json
+
+* Update templates.json
+
+* Update templates.json
+
+* Update spotify.py
+
+* Update spotify.py
+
+* Update spotify.py
+
+* Update spotify.py
+
+* Update spotify.py
+
+* Update spotify.py
+
+* Update spotify.py
+
+* Update spotify.py
+
+* Update spotify.py
+
+* Update templates.json
+
+* Add spotify link for song and artist
+
+- Added Spotify link to song title
+- Added Spotify logo svg that takes the user to Spotify to listen to the currently playing song
+- Added Spotify link to song artist
+
+* Added support for Docker
+
+- Updated SetUp.md with a "Run locally with Docker" section
+- Moved requirements.txt to the root of the repo since some hosting
+  services require the file to be there (eg. Heroku https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-python)
+
+* Apply codefactor.io suggestions
+
+- Use specific python docker image (less error prone)
+- Use '--no-cache-dir' flag in pip since pip cache makes docker images larger
+
+* Prepare for Heroku deployment
+
+- Heroku will bind the app to $PORT
+
+- Add parameter to API to be able to customize the background color of the svg
+
+- Add parameter to API to be able to customize the border color of the svg
+
+- Add SetUp.md section on how to customize your card with URL parameters
+
+Update SetUp.md with a section on how to customize the card
+
+* Updated setup instructions and removed default spotify logo
+
+* Change mail provider to custom built one
+
+* Give Kudos in README
+
+* Update eq if currently listening to or not
+
+* Preview spotify logo
+
+* Add header
+
+* Give room for header
+
+change color of status for contrast
+
+* Update currentStatus
+
+* Test height proporty
+
+* change colors + margin
+
+* Add gradient to eq
+
+* Add background to bars
+
+* Give transparency fill to bars
+
+* Re-add background to bars to evaluate interactions
+
+* Fix background for all bars to apply gradients
+
+* Fix syntax error
+
+* Zoom in background for gradient scroll
+
+* Slow animation of gradient
+
+* Set gradient animation to run first, then sound
+
+* Modify zoom of bar background
+
+* absolute bar travel time
+
+* remove alternate animation for bars
+
+* uncenter start background position
+
+* remove sound animation for debug
+
+* Zoom out background
+
+* remove random.radient
+
+* Remove debug
+
+* Only randomize sound animation duration
+
+* Speed up and add more bars
+
+* Actually speed them up
+
+* ZOOOOOM
+
+* change bar animation to ease
+
+* Slow down bar speeds
+
+* Update README.md
+
+* set bar animation to ease-out
+
+* Set bars to ease in
+
+* Speed up gradient animation
+
+* Speed up gradient animation
+
+* Get only last played song if not listening
+
+* Fix syntax error on itemIndex declaration
+
+* Generate random bezier for bar animations
+
+* Expand speed window for bars
+
+* Pan time window to favor fast
+
+* add preview and prepare for PR
+
+* Add preview and prepare for PR
+
+* change preview.mp4 to .gif
+
+* Split away from table
+
+* General improvements
+
+- Refresh token only when it expires (saves 1 request most of the time)
+- Apply suggestions from python lsp-server
+
+* Add album-cover related gradients (#66)
+
+* Visualize light theme
+
+* sync with gradients branch
+
+most likely will revert
+
+* Sorry light mode I am too tired for you
+
+* Hope to add average color for the gradient
+
+* nth child for all bar in bars real bar foobar bar!
+
+* Make the EQ bar colors be based upon the album cover
+
+* Fix req.txt
+
+* silly imports, why are you so... you
+
+* Give the song title a nice gradient
+
+* textPalette -&gt; songPalette
+
+* Dark mode compatibility
+
+* prevent .env changes from being made to the docker image, unless running locally
+
+* Add gradient to the text in the song name, attempt animation
+
+* remove animation from text
+
+* frantic commenting
+
+* Why does this work on a contianer from my computer but not on vercel
+
+* aha!
+
+* Add in some nice animations for the colors
+
+* Add in some nice animations for the text colors
+
+* Add glow keyframes for the text
+
+* remove glow animation
+
+* remove text shadow entirely
+
+* force commit to rebuild vercel?
+
+* undo last change,(literally nothing)
+
+* Speed up artist gradient
+
+* Only set the barPalette if there is no song currently playing
+
+Attempt to set songPalette to the recently playing url, but there may be a requirement for a barPalette
+
+* Give barPalette some love
+
+* Add placeholder URL if no image exists
+
+* Enable personalized changes
+
+* Enable personalized changes
+
+* Revert personalized changes
+
+* Revert margin change
+
+---------
+
+Co-authored-by: Lloyd Owen &lt;2387296o@student.gla.ac.uk&gt;
+Co-authored-by: Andrew Novac &lt;anovaec@gmail.com&gt;
+Co-authored-by: Ethan Shoham &lt;69990209+Ethan-S-Dev@users.noreply.github.com&gt;
+Co-authored-by: Ethan Shoham &lt;ethan380s@gmail.com&gt;
+Co-authored-by: AlexandrosAlexiou &lt;alex.alexiouu@gmail.com&gt;
+Co-authored-by: Alexander Hamilton &lt;65139378+GalexY727@users.noreply.github.com&gt;
+Co-authored-by: Alexander Hamilton &lt;a.hamilton72006@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#465f918</div>
+                                        <div class="message">General improvements
+
+- Refresh token only when it expires (saves 1 request most of the time)
+- Apply suggestions from python lsp-server</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a001e8</div>
+                                        <div class="message">Split away from table</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#30be7d8</div>
+                                        <div class="message">Change mail provider to custom built one
+
+Give Kudos in README
+
+Update eq if currently listening to or not
+
+Preview spotify logo
+
+Add header
+
+Give room for header
+
+change color of status for contrast
+
+Update currentStatus
+
+Test height proporty
+
+change colors + margin
+
+Add gradient to eq
+
+Add background to bars
+
+Give transparency fill to bars
+
+Re-add background to bars to evaluate interactions
+
+Fix background for all bars to apply gradients
+
+Fix syntax error
+
+Zoom in background for gradient scroll
+
+Slow animation of gradient
+
+Set gradient animation to run first, then sound
+
+Modify zoom of bar background
+
+absolute bar travel time
+
+remove alternate animation for bars
+
+uncenter start background position
+
+remove sound animation for debug
+
+Zoom out background
+
+remove random.radient
+
+Remove debug
+
+Only randomize sound animation duration
+
+Speed up and add more bars
+
+Actually speed them up
+
+ZOOOOOM
+
+change bar animation to ease
+
+Slow down bar speeds
+
+Update README.md
+
+set bar animation to ease-out
+
+Set bars to ease in
+
+Speed up gradient animation
+
+Speed up gradient animation
+
+Get only last played song if not listening
+
+Fix syntax error on itemIndex declaration
+
+Generate random bezier for bar animations
+
+Expand speed window for bars
+
+Pan time window to favor fast
+
+add preview and prepare for PR
+
+Add preview and prepare for PR
+
+change preview.mp4 to .gif</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f31d5fd</div>
+                                        <div class="message">Updated setup instructions and removed default spotify logo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#883abac</div>
+                                        <div class="message">Prepare for Heroku deployment
+
+- Heroku will bind the app to $PORT
+
+- Add parameter to API to be able to customize the background color of the svg
+
+- Add parameter to API to be able to customize the border color of the svg
+
+- Add SetUp.md section on how to customize your card with URL parameters
+
+Update SetUp.md with a section on how to customize the card</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#235e94e</div>
+                                        <div class="message">Apply codefactor.io suggestions
+
+- Use specific python docker image (less error prone)
+- Use '--no-cache-dir' flag in pip since pip cache makes docker images larger</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#02b606b</div>
+                                        <div class="message">Added support for Docker
+
+- Updated SetUp.md with a "Run locally with Docker" section
+- Moved requirements.txt to the root of the repo since some hosting
+  services require the file to be there (eg. Heroku https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-python)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0bf396a</div>
+                                        <div class="message">Add spotify link for song and artist
+
+- Added Spotify link to song title
+- Added Spotify logo svg that takes the user to Spotify to listen to the currently playing song
+- Added Spotify link to song artist</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a301a69</div>
+                                        <div class="message">Themes and Templates (#1)
+
+* Update templates.json
+
+* Update templates.json
+
+* Update templates.json
+
+* Update spotify.py
+
+* Update spotify.py
+
+* Update spotify.py
+
+* Update spotify.py
+
+* Update spotify.py
+
+* Update spotify.py
+
+* Update spotify.py
+
+* Update spotify.py
+
+* Update spotify.py
+
+* Update templates.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c63a193</div>
+                                        <div class="message">Themes and Templates setup guide</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c1db0a</div>
+                                        <div class="message">Easy theme selection</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f2e500</div>
+                                        <div class="message">Easy way to add more thems, added a dark theme</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f4d209</div>
+                                        <div class="message">Update spotify.html.j2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66ca8b1</div>
+                                        <div class="message">Adds placeholder image</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc2572c</div>
+                                        <div class="message">Fixes index out of bounds bug and adds global placeholder variable</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">josephistired/my-site</span>
                                     </div>
                                 </div>
@@ -1779,46 +2273,6 @@
                                     <div class="commit">
                                         <div class="sha">#abb1fbb</div>
                                         <div class="message">font change - last time</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">josephistired/my-site</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e3407fb</div>
-                                        <div class="message">root</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">josephistired/my-site</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6b6d6d0</div>
-                                        <div class="message">font family</div>
                                     </div>
                                 </div>
                             </section>
@@ -1954,16 +2408,53 @@
                     <section class="largeable-column-fields">
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                            </svg>
+                            From
+                            <span class="blue space">josephistired/novatorem</span>
+                        </div>
+                    </section>
+                    <section class="largeable-column-fields">
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
+                            </svg>
+                            On 20 Jan 2024, 15:17:18
+                        </div>
+                    </section>
+                </div>
+                <div class="row">
+                    <section class="largeable-column-fields">
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                            </svg>
+                            Update vercel.json
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            No recent code snippet found
+                            <span class="code">57f7d3c8</span>
+                            <span class="code">vercel.json</span>
+                            <span class="code">
+                                <span class="snippet additions">++1</span>
+                                <span class="snippet deletions">--1</span>
+                            </span>
+                        </div>
+                    </section>
+                </div>
+                <div class="row">
+                    <section class="snippet">
+                        <div class="body markdown">
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -2,7 +2,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"redirects": [<br /></span><span class="token prefix unchanged">·</span><span class="token line">  {<br /></span><span class="token prefix unchanged">·</span><span class="token line">    "source": "/",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    "destination": "https://github.com/novatorem/novatorem"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    "destination": "https://www.josephcarmosino.com/"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  }<br /></span><span class="token prefix unchanged">·</span><span class="token line">]<br /></span><span class="token prefix unchanged">·</span><span class="token line">}</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2024, 10:16:26 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 20 Jan 2024, 15:17:52 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
