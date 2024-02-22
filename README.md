@@ -7,8 +7,3 @@ Hello, my name is Joseph! If you're interested in finding out more about me, fee
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
-
-# 📊 Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
