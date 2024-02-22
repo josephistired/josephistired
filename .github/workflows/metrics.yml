@@ -15,7 +15,7 @@ jobs:
 
           # Options
           user: josephistired
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: America/New_York
@@ -64,4 +64,3 @@ jobs:
           plugin_repositories_featured: DiscordBot-v14, Discord-Pi-hole-Bot, Discord-SelfBot, Auto-Lurk
           plugin_repositories_order: featured, pinned, starred, random
           plugin_traffic: yes
-          plugin_crypto: no
