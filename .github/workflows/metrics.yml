@@ -15,7 +15,7 @@ jobs:
 
           # Options
           user: josephistired
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: America/New_York
