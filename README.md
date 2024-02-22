@@ -10,6 +10,5 @@ Hello, my name is Joseph! If you're interested in finding out more about me, fee
 
 # 📊 Coding Stats
 
-<picture>
-
-</picture>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
