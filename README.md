@@ -1,6 +1,6 @@
 # 👋 Hi
 
-Hello, my name is Joseph! If you're interested in finding out more about me, feel free to check out my [website](https://www.josephcarmosino.com/).
+Hello, my name is Joseph! If you're interested in learning more about me, please check out my [website](https://www.josephcarmosino.com/).
 
 # 📊 Github Stats
 
