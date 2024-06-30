@@ -61,7 +61,7 @@ jobs:
           plugin_pagespeed_url: https://josephcarmosino.com/
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_repositories: yes
-          plugin_repositories_featured: SYRCityline-Data-Explorer, DiscordBot-v14, Discord-Pi-hole-Bot, Auto-Lurk
+          plugin_repositories_featured: SYRCityline-Data-Explorer, DiscordBot-v14, Discord-Pi-hole-Bot, SpeedtestTrackerBot
           plugin_repositories_order: featured, pinned, starred, random
           plugin_traffic: yes
           plugin_wakatime: yes
