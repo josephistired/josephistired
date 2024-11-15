@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -231,13 +231,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.87346440281172" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="219.87346440281172" y="0" width="94.5460395477864" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="314.4195039505981" y="0" width="88.89538529529452" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="403.3148892458926" y="0" width="31.997022867483263" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="435.31191211337585" y="0" width="13.255600413274966" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="448.56751252665083" y="0" width="11.388188816492775" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.9557013431436" y="0" width="0.044298656856363056" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.18834945387135" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="219.18834945387135" y="0" width="95.68477619404479" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="314.87312564791614" y="0" width="88.61839162749091" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="403.49151727540703" y="0" width="31.897321710967447" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="435.38883898637454" y="0" width="13.214296611449763" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="448.6031355978243" y="0" width="11.352703777765043" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.95583937558933" y="0" width="0.04416062441068934" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -540,7 +540,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 12 commits)</small>
+                    <small class="h-details">(computed from last 14 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1586,6 +1586,81 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#dbebd81</div>
+                                        <div class="message">Merge pull request #383 from josephistired/dependabot/npm_and_yarn/typescript-5.6.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4906c02</div>
+                                        <div class="message">Bump typescript from 5.6.2 to 5.6.3
+
+Bumps [typescript](https://github.com/microsoft/TypeScript) from 5.6.2 to 5.6.3.
+- [Release notes](https://github.com/microsoft/TypeScript/releases)
+- [Changelog](https://github.com/microsoft/TypeScript/blob/main/azure-pipelines.release.yml)
+- [Commits](https://github.com/microsoft/TypeScript/compare/v5.6.2...v5.6.3)
+
+---
+updated-dependencies:
+- dependency-name: typescript
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">josephistired/my-site</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2bc284c</div>
+                                        <div class="message">Merge pull request #386 from josephistired/dependabot/npm_and_yarn/framer-motion-11.11.13</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8049af5</div>
+                                        <div class="message">Bump framer-motion from 11.11.9 to 11.11.13
+
+Bumps [framer-motion](https://github.com/framer/motion) from 11.11.9 to 11.11.13.
+- [Changelog](https://github.com/motiondivision/motion/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/framer/motion/compare/v11.11.9...v11.11.13)
+
+---
+updated-dependencies:
+- dependency-name: framer-motion
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">josephistired/my-site</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#aba311d</div>
                                         <div class="message">Merge pull request #385 from josephistired/dependabot/npm_and_yarn/eslint-config-next-15.0.3
 
@@ -1691,86 +1766,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">josephistired/theoldserpico</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ca33d90</div>
-                                        <div class="message">Merge pull request #35 from josephistired/dependabot/npm_and_yarn/testing-library/jest-dom-6.6.3
-
-Bump @testing-library/jest-dom from 6.5.0 to 6.6.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1e5f8f</div>
-                                        <div class="message">Bump @testing-library/jest-dom from 6.5.0 to 6.6.3
-
-Bumps [@testing-library/jest-dom](https://github.com/testing-library/jest-dom) from 6.5.0 to 6.6.3.
-- [Release notes](https://github.com/testing-library/jest-dom/releases)
-- [Changelog](https://github.com/testing-library/jest-dom/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/testing-library/jest-dom/compare/v6.5.0...v6.6.3)
-
----
-updated-dependencies:
-- dependency-name: "@testing-library/jest-dom"
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">josephistired/theoldserpico</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8f17161</div>
-                                        <div class="message">Merge pull request #34 from josephistired/dependabot/npm_and_yarn/sweetalert2-11.14.5
-
-Bump sweetalert2 from 11.12.4 to 11.14.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#12b46df</div>
-                                        <div class="message">Bump sweetalert2 from 11.12.4 to 11.14.5
-
-Bumps [sweetalert2](https://github.com/sweetalert2/sweetalert2) from 11.12.4 to 11.14.5.
-- [Release notes](https://github.com/sweetalert2/sweetalert2/releases)
-- [Changelog](https://github.com/sweetalert2/sweetalert2/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/sweetalert2/sweetalert2/compare/v11.12.4...v11.14.5)
-
----
-updated-dependencies:
-- dependency-name: sweetalert2
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1838,7 +1833,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2024, 05:27:20 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 15 Nov 2024, 10:27:17 (timezone America/New_York) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
