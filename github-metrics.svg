@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1755" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1931" class="">
     <defs>
         <style/>
     </defs>
@@ -171,13 +171,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    192 MB used
+                                    193 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    5.45k added, 524 removed
+                                    213 added, 3 removed
                                 </div>
                             </section>
                             <section>
@@ -540,12 +540,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 1 commit)</small>
+                    <small class="h-details">(computed from last 3 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 20:00</li>
-                        <li>Mostly active on Thursday</li>
+                        <li>Mostly pushes code around 17:00</li>
+                        <li>Mostly active on Tuesday</li>
                     </ul>
                 </div>
             </section>
@@ -1613,14 +1613,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">josephistired/SpeedtestTrackerBot</span>
+                                        <span class="repo">josephistired/ISTE-140</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">add-new-endpoints</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f23a17a</div>
-                                        <div class="message">changed .env file, dockerfile, readme, and .service file</div>
+                                        <div class="sha">#5be1b17</div>
+                                        <div class="message">working</div>
                                     </div>
                                 </div>
                             </section>
@@ -1634,9 +1634,198 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">add-new-endpoints</span>
+                                        <span class="code">main</span>
                                         in
-                                        <span class="repo">josephistired/SpeedtestTrackerBot</span>
+                                        <span class="repo">josephistired/ISTE-140</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">josephistired/backup-gcis-work</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2bf744b</div>
+                                        <div class="message">Merge pull request #1 from josephistired/imgbot
+
+[ImgBot] Optimize images</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be5c8da</div>
+                                        <div class="message">[ImgBot] Optimize images
+
+*Total -- 14,482.47kb -&gt; 10,542.55kb (27.2%)
+
+/SoftDev2/unit04-10-josephistired/media/images/square.png -- 2.90kb -&gt; 0.33kb (88.61%)
+/SoftDev2/unit04-10-josephistired/media/images/reversi/square.png -- 2.90kb -&gt; 0.33kb (88.61%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/noseorange.png -- 3.03kb -&gt; 0.37kb (87.94%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/mouthhm.png -- 3.00kb -&gt; 0.46kb (84.7%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/browsbasic.png -- 3.00kb -&gt; 0.46kb (84.59%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/noseblue.png -- 3.62kb -&gt; 0.62kb (82.83%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/nosered.png -- 3.40kb -&gt; 0.62kb (81.9%)
+/SoftDev2/unit04-10-josephistired/media/images/reversi/blackpiece.png -- 4.54kb -&gt; 0.84kb (81.48%)
+/SoftDev2/unit04-10-josephistired/media/images/reversi/whitepiece.png -- 4.61kb -&gt; 0.86kb (81.37%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/nosegreen.png -- 3.58kb -&gt; 0.67kb (81.34%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/browshuh.png -- 3.32kb -&gt; 0.68kb (79.48%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/browsworried.png -- 3.52kb -&gt; 0.84kb (76.07%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/headblue.png -- 8.05kb -&gt; 1.95kb (75.76%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/eyesbrown.png -- 4.38kb -&gt; 1.07kb (75.66%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/eyesgreen.png -- 4.24kb -&gt; 1.04kb (75.45%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/eyesblack.png -- 4.15kb -&gt; 1.02kb (75.44%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/eyesblue.png -- 4.25kb -&gt; 1.04kb (75.41%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/browsangry.png -- 3.60kb -&gt; 0.90kb (74.96%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/mouthohno.png -- 4.19kb -&gt; 1.06kb (74.7%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/mouthbasic.png -- 4.24kb -&gt; 1.11kb (73.76%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/headyellow.png -- 7.04kb -&gt; 1.93kb (72.58%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/headred.png -- 6.44kb -&gt; 1.95kb (69.67%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/headgreen.png -- 6.39kb -&gt; 1.95kb (69.44%)
+/SoftDev2/unit03-10-josephistired/src/main/java/unit03/toys/toys.png -- 86.21kb -&gt; 28.38kb (67.08%)
+/SoftDev2/practicum-3-10-josephistired/src/main/java/practicum3/squareroots/instructions.png -- 143.20kb -&gt; 47.44kb (66.87%)
+/SoftDev2/unit04-10-josephistired/media/images/tv_shows/v_down.png -- 11.04kb -&gt; 3.87kb (64.96%)
+/SoftDev1/practicum01-josephistired/time_of_day/instructions.png -- 193.87kb -&gt; 68.03kb (64.91%)
+/SoftDev2/unit04-10-josephistired/media/images/tv_shows/v_up.png -- 11.26kb -&gt; 3.96kb (64.82%)
+/SoftDev2/practicum-3-10-josephistired/src/main/java/practicum3/kesselrun/instructions.png -- 410.05kb -&gt; 145.54kb (64.51%)
+/SoftDev2/practicum2-10-josephistired/src/main/java/practicum2/range/instructions.png -- 298.45kb -&gt; 107.10kb (64.11%)
+/SoftDev2/final-10-josephistired/src/main/java/finalexam/knockknock/instructions_client.png -- 479.36kb -&gt; 172.08kb (64.1%)
+/SoftDev2/unit04-10-josephistired/media/images/emojis/mouthdelerious.png -- 6.49kb -&gt; 2.37kb (63.5%)
+/SoftDev2/final-10-josephistired/src/main/java/finalexam/knockknock/instructions_server.png -- 303.00kb -&gt; 112.09kb (63.01%)
+/SoftDev2/final-10-josephistired/src/main/java/finalexam/deli/instructions.png -- 579.36kb -&gt; 215.08kb (62.88%)
+/SoftDev2/final-10-josephistired/src/main/java/finalexam/searchthread/instructions.png -- 258.90kb -&gt; 100.33kb (61.25%)
+/SoftDev1/practicum01-josephistired/scalene_area/Instructions.png -- 60.95kb -&gt; 24.21kb (60.28%)
+/SoftDev2/unit06-10-josephistired/src/main/java/unit06/practicum/referrence.png -- 93.27kb -&gt; 37.32kb (59.99%)
+/SoftDev2/unit01-10-josephistired/1.2A-Collatz Tests.png -- 7.15kb -&gt; 3.04kb (57.47%)
+/SoftDev2/unit01-10-josephistired/scavenger_hunt/b-i.png -- 14.17kb -&gt; 6.57kb (53.65%)
+/SoftDev2/practicum-1-josephistired/src/main/java/practicum1/tps/instructions.png -- 404.41kb -&gt; 191.66kb (52.61%)
+/SoftDev2/practicum-1-josephistired/src/main/java/practicum1/aggregate/instructions.png -- 273.13kb -&gt; 129.82kb (52.47%)
+/SoftDev2/unit01-10-josephistired/scavenger_hunt/a-i.png -- 26.65kb -&gt; 13.69kb (48.65%)
+/SoftDev2/unit06-10-josephistired/src/main/java/unit06/practicum/uml.png -- 38.68kb -&gt; 20.19kb (47.8%)
+/SoftDev2/unit02-10-josephistired/src/main/java/unit02/chickens/uml-chart.png -- 43.56kb -&gt; 23.21kb (46.72%)
+/SoftDev2/unit13-10-josephistired/src/main/java/unit13/practicum/practicum.png -- 62.76kb -&gt; 34.11kb (45.65%)
+/SoftDev2/unit01-10-josephistired/scavenger_hunt/b-v.png -- 157.81kb -&gt; 86.22kb (45.37%)
+/SoftDev2/unit01-10-josephistired/1.2A-Primes Tests.png -- 10.24kb -&gt; 5.63kb (45.02%)
+/SoftDev2/final-10-josephistired/src/main/java/finalexam/knockknock/sequence_diagram.png -- 36.50kb -&gt; 20.57kb (43.65%)
+/SoftDev2/javamavensetup-josephistired/output.png -- 23.16kb -&gt; 13.35kb (42.37%)
+/SoftDev2/unit04-10-josephistired/media/images/ttt/x_icon.png -- 1.26kb -&gt; 0.76kb (39.91%)
+/SoftDev2/unit08-10-josephistired/src/main/java/unit08/practicum/mothers.png -- 195.23kb -&gt; 117.52kb (39.8%)
+/SoftDev2/unit03-10-josephistired/src/main/java/unit03/products/products.png -- 41.16kb -&gt; 25.91kb (37.05%)
+/SoftDev2/unit01-10-josephistired/scavenger_hunt/b-vi.png -- 33.91kb -&gt; 21.39kb (36.93%)
+/SoftDev2/unit01-10-josephistired/scavenger_hunt/b-ii.png -- 98.04kb -&gt; 62.21kb (36.55%)
+/SoftDev1/unit-02-josephistired/Screenshot 2023-09-05 181841.png -- 102.59kb -&gt; 67.95kb (33.77%)
+/SoftDev2/practicum2-10-josephistired/src/main/java/practicum2/thermostat/instructions.png -- 586.78kb -&gt; 388.76kb (33.75%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/pipe_top_right.png -- 2.00kb -&gt; 1.34kb (33.14%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/pipe_bottom_right.png -- 1.97kb -&gt; 1.32kb (32.95%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/cloud_left.png -- 2.00kb -&gt; 1.34kb (32.93%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/goomba.png -- 1.97kb -&gt; 1.33kb (32.79%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/jump.png -- 2.03kb -&gt; 1.36kb (32.67%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/mushroom.png -- 1.96kb -&gt; 1.32kb (32.64%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/stand.png -- 2.01kb -&gt; 1.35kb (32.6%)
+/SoftDev2/unit08-10-josephistired/media/images/queen.png -- 4.71kb -&gt; 3.18kb (32.52%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/rock.png -- 1.90kb -&gt; 1.28kb (32.44%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/cloud_top.png -- 1.88kb -&gt; 1.27kb (32.14%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/question.png -- 1.93kb -&gt; 1.31kb (31.99%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/bush_right.png -- 1.83kb -&gt; 1.25kb (31.9%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/empty_block.png -- 1.81kb -&gt; 1.24kb (31.61%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/pipe_top_left.png -- 1.96kb -&gt; 1.35kb (31.51%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/pipe_bottom_left.png -- 1.92kb -&gt; 1.32kb (31.49%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/hill_top.png -- 1.79kb -&gt; 1.23kb (31.48%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/bush_middle.png -- 1.89kb -&gt; 1.29kb (31.4%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/cloud_bottom.png -- 1.89kb -&gt; 1.29kb (31.37%)
+/SoftDev2/practicum2-10-josephistired/src/main/java/practicum2/bstminmax/instructions.png -- 355.50kb -&gt; 244.23kb (31.3%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/hill_right.png -- 1.85kb -&gt; 1.28kb (31.23%)
+/SoftDev2/practicum-3-10-josephistired/src/main/java/practicum3/flights/instructions.png -- 797.14kb -&gt; 548.44kb (31.2%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/hill_middle.png -- 1.77kb -&gt; 1.22kb (31.18%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/bush_left.png -- 1.81kb -&gt; 1.25kb (31.08%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/hill_left.png -- 1.85kb -&gt; 1.27kb (31.04%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/sky.png -- 1.71kb -&gt; 1.18kb (30.94%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/cloud_right.png -- 1.88kb -&gt; 1.31kb (30.48%)
+/SoftDev2/practicum2-10-josephistired/src/main/java/practicum2/strlensort/instructions.png -- 121.81kb -&gt; 85.28kb (29.99%)
+/SoftDev2/unit08-10-josephistired/media/images/white.png -- 1.78kb -&gt; 1.25kb (29.87%)
+/SoftDev2/unit08-10-josephistired/media/images/blank.png -- 1.79kb -&gt; 1.27kb (29.43%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/blank.png -- 1.74kb -&gt; 1.23kb (29.32%)
+/SoftDev2/unit08-10-josephistired/media/images/red.png -- 1.78kb -&gt; 1.26kb (29.21%)
+/SoftDev2/unit04-10-josephistired/media/images/smb/brick.png -- 1.73kb -&gt; 1.23kb (28.63%)
+/SoftDev2/unit04-10-josephistired/media/images/reversi/blank.png -- 1.74kb -&gt; 1.27kb (26.94%)
+/SoftDev2/project-10-wkey/media/images/8.png -- 3.33kb -&gt; 2.50kb (24.93%)
+/SoftDev2/project-10-wkey/media/images/6.png -- 3.36kb -&gt; 2.56kb (23.8%)
+/SoftDev2/project-10-wkey/media/images/2.png -- 3.53kb -&gt; 2.70kb (23.48%)
+/SoftDev2/project-10-wkey/media/images/1.png -- 3.36kb -&gt; 2.58kb (23.24%)
+/SoftDev2/project-10-wkey/media/images/5.png -- 3.34kb -&gt; 2.57kb (22.96%)
+/SoftDev2/project-10-wkey/media/images/0.png -- 3.33kb -&gt; 2.57kb (22.84%)
+/SoftDev1/unit-06-josephistired/linear_search.png -- 52.83kb -&gt; 40.91kb (22.57%)
+/SoftDev2/unit04-10-josephistired/media/images/ttt/o_icon.png -- 2.02kb -&gt; 1.57kb (22.34%)
+/SoftDev2/unit09-10-josephistired/media/images/icon.png -- 15.83kb -&gt; 12.32kb (22.21%)
+/SoftDev2/project-10-wkey/media/images/4.png -- 3.43kb -&gt; 2.67kb (22.12%)
+/SoftDev2/unit08-10-josephistired/media/images/black.png -- 1.35kb -&gt; 1.05kb (21.97%)
+/SoftDev2/project-10-wkey/media/images/3.png -- 3.43kb -&gt; 2.68kb (21.91%)
+/SoftDev2/project-10-wkey/media/images/7.png -- 3.35kb -&gt; 2.64kb (21.38%)
+/SoftDev1/practicum01-josephistired/to_upper/instructions.png -- 1,291.53kb -&gt; 1,046.38kb (18.98%)
+/SoftDev2/project-10-wkey/media/images/P.png -- 4.06kb -&gt; 3.33kb (18%)
+/SoftDev2/unit01-10-josephistired/scavenger_hunt/b-iii.png -- 255.52kb -&gt; 210.83kb (17.49%)
+/SoftDev1/unit-06-josephistired/jump-search-binary-search.png -- 65.68kb -&gt; 54.26kb (17.38%)
+/SoftDev2/unit05-10-josephistired/hilo01.png -- 9.39kb -&gt; 7.79kb (17.05%)
+/SoftDev2/unit05-10-josephistired/hilo02.png -- 8.74kb -&gt; 7.40kb (15.26%)
+/SoftDev2/unit08-10-josephistired/mothers.png -- 104.82kb -&gt; 90.00kb (14.14%)
+/SoftDev2/unit01-10-josephistired/scavenger_hunt/b-iv.png -- 162.54kb -&gt; 141.60kb (12.88%)
+/SoftDev1/unit-12-josephistired/mini_practicum/circles.png -- 138.26kb -&gt; 122.55kb (11.36%)
+/SoftDev2/unit04-10-josephistired/media/images/smb.gif -- 7.98kb -&gt; 7.09kb (11.16%)
+/SoftDev2/project-10-wkey/media/images/mountain.png -- 3.59kb -&gt; 3.20kb (10.93%)
+/SoftDev2/unit01-10-josephistired/scavenger_hunt/a-iii.jpg -- 1,294.76kb -&gt; 1,203.91kb (7.02%)
+/SoftDev2/unit01-10-josephistired/scavenger_hunt/a-ii.jpg -- 1,176.34kb -&gt; 1,102.90kb (6.24%)
+/SoftDev2/unit01-10-josephistired/scavenger_hunt/a-iv.jpg -- 1,092.98kb -&gt; 1,027.44kb (6%)
+/SoftDev2/unit04-10-josephistired/media/images/tv_shows/ducktales.jpg -- 229.98kb -&gt; 222.62kb (3.2%)
+/SoftDev2/unit04-10-josephistired/media/images/tv_shows/transformers.jpg -- 188.63kb -&gt; 182.67kb (3.16%)
+/SoftDev2/unit04-10-josephistired/media/images/tv_shows/pinky_and_the_brain.jpg -- 131.23kb -&gt; 127.96kb (2.49%)
+/SoftDev2/unit04-10-josephistired/media/images/tv_shows/voltron.jpg -- 164.07kb -&gt; 160.21kb (2.35%)
+/SoftDev2/unit04-10-josephistired/media/images/sunflowers.jpg -- 225.51kb -&gt; 220.56kb (2.2%)
+/SoftDev2/unit04-10-josephistired/media/images/tv_shows/smurfs.jpg -- 161.22kb -&gt; 157.75kb (2.15%)
+/SoftDev2/unit04-10-josephistired/media/images/tv_shows/he_man.jpg -- 143.00kb -&gt; 140.15kb (2%)
+/SoftDev2/unit04-10-josephistired/media/images/tv_shows/garfield.jpg -- 158.10kb -&gt; 155.17kb (1.85%)
+/SoftDev2/unit04-10-josephistired/media/images/tv_shows/gi_joe.jpg -- 157.06kb -&gt; 154.33kb (1.74%)
+/SoftDev2/unit04-10-josephistired/media/images/tv_shows/thundercats.jpg -- 217.29kb -&gt; 213.82kb (1.59%)
+/SoftDev2/unit04-10-josephistired/media/images/tv_shows/realgb.png -- 463.39kb -&gt; 458.53kb (1.05%)
+
+Signed-off-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#1 [ImgBot] Optimize images</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by imgbot[bot] in <span class="repo">josephistired/backup-gcis-work</span></div>
+                                    <div>127 files changed <span class="code">++0 --0</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      repository
+                                        <span class="repo">josephistired/ISTE-140</span>
                                     </div>
                                 </div>
                             </section>
@@ -1699,22 +1888,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 45.216%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">57%</span>
+                                <div class="bar" style="width: 43.368%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">54%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SpeedtestTrackerBot</span>
-                                <div class="bar" style="width: 18.392%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">23%</span>
+                                <div class="bar" style="width: 17.64%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">2</span>
-                                <div class="bar" style="width: 13.776%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 13.208000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">17%</span>
                             </div>
                             <div class="entry">
+                                <span class="name">ISTE-140</span>
+                                <div class="bar" style="width: 3.272%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">my-site</span>
-                                <div class="bar" style="width: 2.616%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.504%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                         </div>
@@ -1724,27 +1918,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 58.903999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">74%</span>
+                                <div class="bar" style="width: 59.70399999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">75%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 6.848000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 6.5680000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Markdown</span>
-                                <div class="bar" style="width: 5.584%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.352%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 3.04%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.912%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 1.672%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.6%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
@@ -1771,7 +1965,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jan 2025, 00:18:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jan 2025, 05:17:35 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
