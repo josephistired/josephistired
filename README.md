@@ -35,7 +35,8 @@ I'm a **Computing and Information Technologies** student at **RIT**, passionate 
 ---
 
 ## 📫 Let's Connect!
-- 💻 [Personal Website](https://www.josephcarmosino.com)  
+- 💻 [Personal Website](https://www.josephcarmosino.com)
+- 📜 [Catch Up With Me](https://www.josephcarmosino.com/blog)
 - 💼 [LinkedIn](https://www.linkedin.com/in/josephcarmosino/)  
 - 📧 jc@josephcarmosino.com  
 
