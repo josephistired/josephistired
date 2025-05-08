@@ -21,6 +21,7 @@ I'm a **Computing and Information Technologies** student at **RIT**, passionate 
 ### 📡 Speedtest Tracker Bot
 *SpeedtestTrackerBot is a Discord bot that interacts with the [Speedtest Tracker](https://github.com/alexjustesen/speedtest-tracker), and it's API to provide various network performance metrics. This bot is designed to be run locally by the user.*  
 🔗 [GitHub Repo](https://github.com/josephistired/SpeedtestTrackerBot)
+📚 [Documentation](https://docs.josephcarmosino.com/speedtesttrackerbot)
 
 ### 📊 SYRCityline Data Explorer
 *Discord bot for accessing and presenting data from the SYRCityline system.*  
