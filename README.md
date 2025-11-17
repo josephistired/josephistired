@@ -8,7 +8,7 @@ I'm a **Computing and Information Technologies** student at **RIT**, passionate 
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** Python, JavaScript, Bash, TypeScript  
+- **Languages:** Python, JavaScript, Bash, TypeScript, Swift
 - **Web Development:** HTML, CSS, Next.js, React  
 - **Cybersecurity & Networking:** OSINT, NIST CSF, Firewalls (OPNsense, pfSense), VPNs (WireGuard, OpenVPN)  
 - **System Administration:** Windows Server, Active Directory, Virtualization (Docker, VMware)  
