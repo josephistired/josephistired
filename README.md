@@ -39,7 +39,8 @@ I'm a **Computing and Information Technologies** student at **RIT**, passionate 
 - 💻 [Personal Website](https://josephcarmosino.com)
 - 📚 [Documentation Website](https://docs.josephcarmosino.com/)
 - 📜 [Catch Up With Me](https://www.josephcarmosino.com/blog)
-- 💼 [LinkedIn](https://www.linkedin.com/in/josephcarmosino/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/josephcarmosino/)
+- 🍕 [Buy me a slice of pizza](https://buymeacoffee.com/josephcarmosino)
 - 📧 jc@josephcarmosino.com  
 
 💡 *Always excited to collaborate on cool projects—let’s build something awesome!* 🚀
