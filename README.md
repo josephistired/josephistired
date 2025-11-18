@@ -18,9 +18,9 @@ I'm a **Computing and Information Technologies** student at **RIT**, passionate 
 
 ## 📌 Featured Projects
 
-###📱 Speedtest Tracker App (iOS)
+### 📱 Speedtest Tracker App (iOS)
 
-*A native iOS client for self-hosted Speedtest Tracker instances. View results, run tests, browse servers, and manage your setup from your phone.*
+*A native iOS client for self-hosted Speedtest Tracker instances. View results, run tests, browse servers, and much more from your phone.*
 📲 [App Store](https://apps.apple.com/us/app/speedtest-tracker-app/id6755368150)
 🔗 [Support Page](https://josephcarmosino.com/speedtesttrackerapp)
 
