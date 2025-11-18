@@ -18,6 +18,12 @@ I'm a **Computing and Information Technologies** student at **RIT**, passionate 
 
 ## 📌 Featured Projects
 
+###📱 Speedtest Tracker App (iOS)
+
+*A native iOS client for self-hosted Speedtest Tracker instances. View results, run tests, browse servers, and manage your setup from your phone.*
+📲 [App Store](https://apps.apple.com/us/app/speedtest-tracker-app/id6755368150)
+🔗 [Support Page](https://josephcarmosino.com/speedtesttrackerapp)
+
 ### 📡 Speedtest Tracker Bot
 *SpeedtestTrackerBot is a Discord bot that interacts with the [Speedtest Tracker](https://github.com/alexjustesen/speedtest-tracker), and it's API to provide various network performance metrics. This bot is designed to be run locally by the user.*  
 🔗 [GitHub Repo](https://github.com/josephistired/SpeedtestTrackerBot)
