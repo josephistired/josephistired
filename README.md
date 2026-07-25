@@ -1,52 +1,131 @@
-# 👋 Hey, I'm Joseph!
+# 👋 Hi, I'm Joseph Carmosino
 
-## 🚀 Computing & Information Technologies Student | Developer | Tech Enthusiast
+## Enterprise IT • Systems Administration • Infrastructure • Software Development
 
-I'm a **Computing and Information Technologies** student at **RIT**, passionate about **coding, cybersecurity, and system administration**. I love building innovative solutions, automating workflows, and tackling technical challenges.
+I'm a Computing and Information Technologies student at the Rochester Institute of Technology (RIT) with a passion for enterprise IT, systems administration, infrastructure automation, and building tools that solve real-world problems.
 
----
+Over the past few years, I've gained hands-on experience supporting enterprise environments through my role at RIT's ITS Service Desk and two internships with Sierra Nevada Corporation, where I've worked on endpoint lifecycle management, PowerShell automation, access management, and enterprise infrastructure projects.
 
-## 🛠️ Tech Stack & Skills
-
-- **Languages:** Python, JavaScript, Bash, TypeScript, Swift
-- **Web Development:** HTML, CSS, Next.js, React  
-- **Cybersecurity & Networking:** OSINT, NIST CSF, Firewalls (OPNsense, pfSense), VPNs (WireGuard, OpenVPN)  
-- **System Administration:** Windows Server, Active Directory, Virtualization (Docker, VMware)  
-- **Databases & APIs:** MySQL, REST APIs
+Outside of work, I maintain a self-hosted homelab where I experiment with networking, identity management, Linux administration, Docker, and infrastructure technologies to continue learning beyond the classroom.
 
 ---
 
-## 📌 Featured Projects
+# 🛠️ Technologies
 
-### 📱 Speedtest Tracker App (iOS)
+### Enterprise IT
+- Active Directory
+- Microsoft Configuration Manager (SCCM)
+- Microsoft Intune
+- Group Policy
+- ServiceNow
+- Quest Active Roles
+- Bitwarden Enterprise
 
-*A native iOS client for self-hosted Speedtest Tracker instances. View results, run tests, browse servers, and much more from your phone.*
-📲 [App Store](https://apps.apple.com/us/app/speedtest-tracker-app/id6755368150)
-🔗 [Support Page](https://josephcarmosino.com/speedtesttrackerapp)
+### Infrastructure & Networking
+- OPNsense
+- Docker
+- Portainer
+- VMware
+- Raspberry Pi
+- Authentik
+- WireGuard
+- DNS
+- DHCP
+- Linux
 
-### 📡 Speedtest Tracker Bot
-*SpeedtestTrackerBot is a Discord bot that interacts with the [Speedtest Tracker](https://github.com/alexjustesen/speedtest-tracker), and it's API to provide various network performance metrics. This bot is designed to be run locally by the user.*  
-🔗 [GitHub Repo](https://github.com/josephistired/SpeedtestTrackerBot)
-📚 [Documentation](https://docs.josephcarmosino.com/speedtesttrackerbot)
-
-### 📊 SYRCityline Data Explorer
-*Discord bot for accessing and presenting data from the SYRCityline system.*  
-🏆 *Winner of the Syracuse Data Challenge – May Edition*  
-🔗 [GitHub Repo](https://github.com/Syracuse-Open-Source-Collective/SYRCityline-Data-Explorer)
+### Programming & Automation
+- PowerShell
+- Python
+- Bash
+- JavaScript
+- TypeScript
+- Swift
+- SQL
+- REST APIs
 
 ---
 
-## 📈 GitHub Stats
-![Joseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephistired&show_icons=true&theme=tokyonight)
+# 🚀 Featured Projects
+
+## 🏠 Enterprise Infrastructure Homelab
+
+A continuously evolving self-hosted lab used to build experience with enterprise infrastructure, networking, identity management, and systems administration.
+
+**Technologies**
+- OPNsense
+- Docker
+- Authentik
+- Tailscale
+- NextDNS
+- Raspberry Pi
+- Nginx Proxy Manager
+- Uptime Kuma
+- Trilium
+- Patch Management
 
 ---
 
-## 📫 Let's Connect!
-- 💻 [Personal Website](https://josephcarmosino.com)
-- 📚 [Documentation Website](https://docs.josephcarmosino.com/)
-- 📜 [Catch Up With Me](https://www.josephcarmosino.com/blog)
-- 💼 [LinkedIn](https://www.linkedin.com/in/josephcarmosino/)
-- 🍕 [Buy me a slice of pizza](https://buymeacoffee.com/josephcarmosino)
-- 📧 jc@josephcarmosino.com  
+## 📱 Speedtest Tracker for iOS
 
-💡 *Always excited to collaborate on cool projects—let’s build something awesome!* 🚀
+Native iOS client for self-hosted Speedtest Tracker instances.
+
+- View historical speed test data
+- Execute speed tests remotely
+- Browse servers
+- Monitor network performance
+
+📲 App Store:
+https://apps.apple.com/us/app/speedtest-tracker-app/id6755368150
+
+🌐 Support:
+https://josephcarmosino.com/speedtesttrackerapp
+
+---
+
+## 🤖 Speedtest Tracker Bot
+
+Discord bot for interacting with Speedtest Tracker through its REST API.
+
+- Execute tests
+- View statistics
+- Display network metrics
+- Self-hosted
+
+GitHub:
+https://github.com/josephistired/SpeedtestTrackerBot
+
+Documentation:
+https://docs.josephcarmosino.com/speedtesttrackerbot
+
+---
+
+## 📊 SYRCityline Data Explorer
+
+Discord bot developed for the Syracuse Open Source Collective.
+
+🏆 Winner of the Syracuse Data Challenge
+
+---
+
+# 📈 GitHub Statistics
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=josephistired&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=shadow_red)](https://github-stats-extended.vercel.app/api?username=josephistired&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=shadow_red)
+
+---
+
+# 🌐 Connect With Me
+
+🌍 Website
+https://josephcarmosino.com
+
+📚 Documentation
+https://docs.josephcarmosino.com
+
+📝 Blog
+https://josephcarmosino.com/blog
+
+💼 LinkedIn
+https://linkedin.com/in/josephcarmosino
+
+📧 Email
+jc@josephcarmosino.com
